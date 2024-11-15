@@ -1,8 +1,6 @@
 # Descrição
 Criar um Assistente de Delivery utilizando AWS Step Functions e Amazon Bedrock. O projeto consiste em orquestrar diferentes serviços AWS para automatizar e gerenciar um fluxo de pedidos de delivery, desde a recepção do pedido até a entrega final.
-Este desafio foi acompanhado a parte teórica e não foi desenvolvida a parte prática devido a fatores financeiros.
-
-## Resumo
+Este desafio foi acompanhado a parte teórica e não foi desenvolvida a parte prática devido a fatores financeiros. Abaixo segue um resumo com o entendimento a respeito das ferramentas e do desafio.
 
 # AWS Step Functions
 
